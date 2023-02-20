@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "大盘趋势",
+  "usingComponents": {
+    "u-link": "../../../components/u-link/u-link"
+  }
+}

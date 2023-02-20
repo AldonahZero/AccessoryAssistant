@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "出租年化",
+  "usingComponents": {
+    "u-link": "../../../components/u-link/u-link"
+  }
+}
